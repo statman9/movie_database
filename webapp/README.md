@@ -33,3 +33,5 @@ npm run build
 Getting the frontend and the backend talking had some issues with Cross-Orgin, so backend needed additional packages installed to handle it. Since Vue is new to me it was quite a learning curve and would have done unit tests if not for the learning curve, still had some similarities between React and Angular both of which I am more familiar with. Also had to update myself on Node.js, it had been a while since I had built an api in Node, so once again a bit of a learning curve there.
 
 The links to the different frameworks was very helpful.
+
+The webapp should run on port 5713 in order for Cross-Origin to work for the webservice
